@@ -3,6 +3,10 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Button Content="Button" HorizontalAlignment="Left" Height="42" Margin="157,76,0,0" VerticalAlignment="Top" Width="127"/>
+        <ComboBox HorizontalAlignment="Left" Margin="180,157,0,0" VerticalAlignment="Top" Width="120"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="169,211,0,0" VerticalAlignment="Top" Width="100"/>
+        <ComboBox HorizontalAlignment="Left" Margin="330,179,0,0" VerticalAlignment="Top" Width="120"/>
+
     </Grid>
 </Window>
